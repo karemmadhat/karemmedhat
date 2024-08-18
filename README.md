@@ -5,7 +5,16 @@
 
 I am a software Engineer with experience in .NET.I have the skills to develop web applications and web ApIs and integrate it into other systems .I have a keen  eye for detail ,excellent problem-solving skills , and the ability to think outside the box.
 
-Skills: C# C++,SQL,ASP.NET Core ,MVC , APIs , HTML ,CSS ,JavaScript
+Skills: 
+*C#
+*C++
+*SQL
+*ASP.NET Core 
+*MVC 
+* APIs
+* HTML
+*CSS 
+*JavaScript
 
 - 🔭 I’m currently working on this page. 
 
