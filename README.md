@@ -12,8 +12,8 @@ Skills:
 *SQL
 *ASP.NET Core 
 *MVC 
-* APIs
-* HTML
+*APIs
+*HTML
 *CSS
 *JavaScript
 
