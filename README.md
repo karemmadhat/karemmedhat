@@ -3,11 +3,12 @@
 
 <h1 align="center">👩‍💻 karim madhat<br><br>
    <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full+Stack+Web+Developer;Angular+||+.NET&center=true&size=28">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Testing+Web+Developer;Automation+||+Manual&Automation=true&size=28">
   </a>
 </h1>
 
-<p align="center">I am a Full Stack Developer with a strong focus on backend development and robotics, My technical expertise spans Python, C#, C++, SQL, ASP.NET Core, MVC, APIs, JavaScript, HTML, and CSS. I also have extensive experience in computer vision, image processing, and deep learning. Additionally, my skill set includes designing and implementing PCBs, ROV systems, and UI/UX design. I am well-versed in Agile methodologies and have demonstrated strong teamwork and leadership abilities.
+<p align="center">I am a SoftWare Testing Developer with a strong focus on backend development and robotics, My technical expertise spans Python, C#, C++, SQL, java, Selenuim, APIs,Appuim, JavaScript, HTML, and CSS. I am a software tester with extensive experience in ensuring the quality of applications and systems. I have strong skills in designing and executing test cases and analyzing results. I specialize in Automation testing. My experience: *Designing and implementing comprehensive test cases
+*Analyze test results and prepare reports
 </p>
 
 ---
